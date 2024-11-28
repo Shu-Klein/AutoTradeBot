@@ -1,20 +1,16 @@
 # AutoTradeBot
 
 ## Description
-AutoTradeBot is an automated cryptocurrency trading bot designed to maximize efficiency and profitability by leveraging advanced trading algorithms and data analysis techniques.
+AutoTradeBot is an automated cryptocurrency trading bot for the BTC/USD pair, designed to leverage neural networks and advanced trading strategies to maximize profitability.
 
 ## Features
 - Automated trading on cryptocurrency markets.
-- Integration with popular exchanges (e.g., Binance API).
 - Backtesting with historical data for strategy evaluation.
-- Modular and scalable architecture for easy customization.
+- Modular and scalable architecture for customization.
 
-## Technologies
-- **Python**: Main programming language.
-- **Binance API**: For real-time market data and order execution.
-- **Pandas**: For data manipulation and analysis.
-- **Matplotlib**: For visualization of data and performance.
-- **Machine Learning (future)**: For optimizing trading strategies.
+## Documentation
+- [Workflow Plan](workflow_plan.md): Macro-level project roadmap and task breakdown.
+- [Work Log](work_log.md): Daily progress tracking and decision-making history.
 
 ## Installation
 1. Clone the repository:
